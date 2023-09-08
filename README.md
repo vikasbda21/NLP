@@ -1,8 +1,7 @@
 # NLP
-# Amazon Review Dataset
-### Overview
-This dataset contains a collection of reviews from Amazon, covering a wide range of products across various categories. The dataset is valuable for natural language processing tasks,
-
+# Amazon Text Review Word2Vec Model
+##### Overview
+This Word2Vec model has been trained on a large corpus of Amazon text reviews. Word2Vec is a technique for learning word embeddings that represent words as vectors in a continuous vector space. These embeddings capture semantic relationships between words, making them valuable for various natural language processing tasks.
 # - Columns:
 - reviewerID: Unique identifier for the reviewer
 - asin: Amazon Standard Identification Number for the product
